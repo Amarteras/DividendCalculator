@@ -10,9 +10,9 @@ Calculator Page:
   - Input number of months (1–12)
   - 
   Calculates:
-    - Monthly Dividend: (rate / 12) * fund
-    - Total Dividend: monthly * months
-    - Displays result with two decimal points
+  - Monthly Dividend: (rate / 12) * fund
+  - Total Dividend: monthly * months
+  - Displays result with two decimal points
    
 
 About Page:
@@ -23,7 +23,7 @@ About Page:
   - Clickable GitHub repository link
 
 Author:
-  Name: Ammar Irfan Bin Ibrahim
-  Matric No: 2023503081
-  Course: Mobile Technology and Development
-  Year: 2025
+  - Name: Ammar Irfan Bin Ibrahim
+  - Matric No: 2023503081
+  - Course: Mobile Technology and Development
+  - Year: 2025
